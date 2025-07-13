@@ -1,0 +1,35 @@
+[
+    {
+        "model": "bookings.fitnessclass",
+        "pk": 1,
+        "fields": {
+            "name": "Yoga",
+            "datetime": "2025-07-15T06:30:00Z",
+            "instructor": "Alice",
+            "total_slots": 3,
+            "available_slots": 3
+        }
+    },
+    {
+        "model": "bookings.fitnessclass",
+        "pk": 2,
+        "fields": {
+            "name": "Zumba",
+            "datetime": "2025-07-16T08:00:00Z",
+            "instructor": "Bob",
+            "total_slots": 15,
+            "available_slots": 15
+        }
+    },
+    {
+        "model": "bookings.fitnessclass",
+        "pk": 3,
+        "fields": {
+            "name": "HIIT",
+            "datetime": "2025-07-11T06:30:00Z",
+            "instructor": "sruthy",
+            "total_slots": 3,
+            "available_slots": 3
+        }
+    }
+]
