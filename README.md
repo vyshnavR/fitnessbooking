@@ -53,7 +53,7 @@ python manage.py loaddata data.json
 
 ▶️ Start the Server
 python manage.py runserver
-
+```
 
 
 ---
